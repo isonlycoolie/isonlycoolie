@@ -1,11 +1,11 @@
 # <a href="https://denisivalence.tech">AI & Data Engineer | Backend Systems Builder</a>
 
-- 🌱 Currently building [DIRA](https://github.com/isonlycoolie/dira). a real-time traffic congestion prediction platform for Dar es Salaam
+- 🌱 Currently building [DIRA](https://github.com/isonlycoolie/dira) — a real-time traffic congestion prediction platform for Dar es Salaam
 - 👋 AI & Data Engineer · Backend Developer · Systems Thinker
 - 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
-- 🌍 **Founder of [Applai](https://github.com/isonlycoolie)**. Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
+- 🌍 **Founder of [Applai](https://github.com/isonlycoolie)** — Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
 - 🧠 Deep into: Retrieval-Augmented Generation · Fine-tuning · Distributed Data Engineering
-- 🚀 Turning complex data problems into working systems, one pipeline at a time
+- 🚀 Turning complex data problems into working systems — one pipeline at a time
 - 💼 Open to collaborate on AI, Data Engineering, or Backend projects!
 
 ---
@@ -43,13 +43,13 @@
   <img
     width="50%"
     height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=isonlycoolie&show_icons=true&count_private=true&hide_border=true&title_color=0A7668&icon_color=0A7668&text_color=1E293B&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=isonlycoolie&show_icons=true&count_private=true&hide_border=true&title_color=0A7668&icon_color=0A7668&text_color=c9d1d9&bg_color=0d1117"
     alt="Denisi github stats"
   />
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonlycoolie&layout=compact&hide_border=true&title_color=0A7668&text_color=1E293B&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonlycoolie&layout=compact&hide_border=true&title_color=0A7668&text_color=c9d1d9&bg_color=0d1117&langs_count=8"
   />
 </div>
 
