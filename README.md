@@ -5,7 +5,7 @@
 - 🌱 Currently building [DIRA](https://github.com/isonlycoolie/dira), a real-time traffic congestion prediction platform for Dar es Salaam
 - 👋 AI & Data Engineer · Backend Developer · Systems Thinker
 - 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
-- 🌍 **Founder of [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
+- 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
 - 🧠 Deep into: Retrieval-Augmented Generation · Fine-tuning · Distributed Data Engineering
 - 🚀 Turning complex data problems into working systems — one pipeline at a time
 - 💼 Open to collaborate on AI, Data Engineering, or Backend projects!
