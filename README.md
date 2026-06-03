@@ -2,7 +2,8 @@
 
 > AI & Data Engineer · Building RAG systems, streaming pipelines & smart-city infrastructure · Django · PySpark · Kafka · Tanzania 🇹🇿
 
-- 🌱 Currently building [DIRA](https://github.com/isonlycoolie/dira), a real-time traffic congestion prediction platform for Dar es Salaam
+- 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration, RAG, human-in-the-loop, production recovery)
+- 🚦 Also building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic congestion prediction platform for Dar es Salaam
 - 👋 AI & Data Engineer · Backend Developer · Systems Thinker
 - 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
 - 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
@@ -16,40 +17,28 @@
 
 <table>
   <tr>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_native.png" alt="React Native" title="React Native"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="SQL" title="SQL"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-kafka.png" alt="Apache Kafka" title="Apache Kafka"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-spark.png" alt="Apache Spark" title="Apache Spark"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/django.png" alt="Django" title="Django"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/langchain.png" alt="LangChain" title="LangChain"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
   </tr>
   <tr>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" title="Redis"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Apache Kafka" title="Apache Kafka"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="PySpark" title="PySpark"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST API" title="REST API"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sentry.png" alt="Sentry" title="Sentry"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js" title="Next.js"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/qdrant.png" alt="Qdrant" title="Qdrant"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/react.png" alt="React" title="React"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/redis.png" alt="Redis" title="Redis"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/rest-api.png" alt="REST API" title="REST API"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/spring-boot.png" alt="Spring Boot" title="Spring Boot"/></code></td>
+    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code></td>
   </tr>
 </table>
 
 ---
-
-<div align="center">
-  <img
-    width="50%"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=isonlycoolie&show_icons=true&count_private=true&hide_border=true&title_color=0A7668&icon_color=0A7668&text_color=c9d1d9&bg_color=0d1117"
-    alt="Denisi github stats"
-  />
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonlycoolie&layout=compact&hide_border=true&title_color=0A7668&text_color=c9d1d9&bg_color=0d1117&langs_count=8"
-  />
-</div>
 
 [![Denisi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isonlycoolie&bg_color=0d1117&color=0A7668&line=0A7668&area_color=0A7668&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
