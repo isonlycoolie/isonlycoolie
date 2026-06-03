@@ -15,8 +15,6 @@
 
 # My Tech Stack
 
-Ordered by how much I reach for each tool in production (heaviest first).
-
 <table>
   <tr>
     <td align="center" valign="top">
@@ -36,9 +34,7 @@ Ordered by how much I reach for each tool in production (heaviest first).
       <br/><strong>LangChain</strong>
     </td>
     <td align="center" valign="top">
-      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
-        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-kafka.png" alt="Apache Kafka"/>
-      </div>
+      <code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-kafka.png" alt="Apache Kafka"/></code>
       <br/><strong>Apache Kafka</strong>
     </td>
     <td align="center" valign="top">
@@ -64,9 +60,7 @@ Ordered by how much I reach for each tool in production (heaviest first).
       <br/><strong>React</strong>
     </td>
     <td align="center" valign="top">
-      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
-        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js"/>
-      </div>
+      <code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js"/></code>
       <br/><strong>Next.js</strong>
     </td>
     <td align="center" valign="top">
