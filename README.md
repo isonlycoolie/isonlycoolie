@@ -17,24 +17,88 @@
 
 <table>
   <tr>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-kafka.png" alt="Apache Kafka" title="Apache Kafka"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-spark.png" alt="Apache Spark" title="Apache Spark"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/django.png" alt="Django" title="Django"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/langchain.png" alt="LangChain" title="LangChain"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-kafka.png" alt="Apache Kafka" title="Apache Kafka"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/apache-spark.png" alt="Apache Spark" title="Apache Spark"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/django.png" alt="Django" title="Django"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/docker.png" alt="Docker" title="Docker"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/langchain.png" alt="LangChain" title="LangChain"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js" title="Next.js"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/qdrant.png" alt="Qdrant" title="Qdrant"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/react.png" alt="React" title="React"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/redis.png" alt="Redis" title="Redis"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/rest-api.png" alt="REST API" title="REST API"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/spring-boot.png" alt="Spring Boot" title="Spring Boot"/></code></td>
-    <td><code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code></td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js" title="Next.js"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/qdrant.png" alt="Qdrant" title="Qdrant"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/react.png" alt="React" title="React"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/redis.png" alt="Redis" title="Redis"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/rest-api.png" alt="REST API" title="REST API"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/spring-boot.png" alt="Spring Boot" title="Spring Boot"/>
+      </div>
+    </td>
+    <td align="center" valign="middle" style="padding:6px;">
+      <div align="center" style="background-color:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:10px; display:inline-block; line-height:0;">
+        <img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
+      </div>
+    </td>
   </tr>
 </table>
 
