@@ -8,7 +8,7 @@
 - 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
 - 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
 - 🧠 Deep into: Retrieval-Augmented Generation · Fine-tuning · Distributed Data Engineering
-- 🚀 Turning complex data problems into working systems — one pipeline at a time
+- 🚀 Turning complex data problems into working systems, one pipeline at a time
 - 💼 Open to collaborate on AI, Data Engineering, or Backend projects!
 
 ---
