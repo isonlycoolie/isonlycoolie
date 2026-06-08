@@ -1,6 +1,6 @@
 # <a href="https://denisivalence.tech">AI & Data Engineer | Backend Systems Builder</a>
 
-> AI & Data Engineer · Building RAG systems, AI Systems, streaming pipelines & Smart-city infrastructure · Tanzania 🇹🇿
+> AI & Data Engineer · Building Reliable Backend System, RAG systems, AI Systems & Data Streaming pipelines · Tanzania 🇹🇿
 
 - 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration, RAG, human-in-the-loop)
 - 🚦 Also building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic congestion prediction platform for Dar es Salaam
