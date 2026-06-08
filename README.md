@@ -57,7 +57,7 @@
     </td>
     <td align="center" valign="top">
       <code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/react.png" alt="React"/></code>
-      <br/><strong>React</strong>
+      <br/><strong>React Native</strong>
     </td>
     <td align="center" valign="top">
       <code><img width="45" src="https://raw.githubusercontent.com/Iscoolie/myassets/main/icons/nextjs.png" alt="Next.js"/></code>
