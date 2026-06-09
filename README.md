@@ -2,13 +2,13 @@
 
 > AI & Data Engineer · Building Reliable Backend System, RAG systems, AI Systems & Data Streaming pipelines · Tanzania 🇹🇿
 
-- 🌱 Founder of **[Elevana](https://elevana.co.tz)** a revenue systems unit that engineers data-driven growth infrastructure, audits leaks, and deploys       custom automation to recover lost business revenue.
-- 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration,         RAG, human-in-the-loop). Find Arcflow docs at **[Arcflow Docs](https://arcflows.vercel.app/docs)**
+- 🌱 Founder of **[Elevana](https://elevana.co.tz)** a revenue systems unit that engineers data-driven growth infrastructure, audits leaks, and deploys          custom automation to recover lost business revenue.
+- 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration,            RAG, human-in-the-loop). Find Arcflow docs at **[Arcflow Docs](https://arcflows.vercel.app/docs)**
 - 🚦 Also building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic congestion prediction platform for Dar es Salaam
 - 👋 AI & Data Engineer · Backend Developer · Systems Thinker
 - 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
 - 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
-- 🧠 Deep into: Retrieval-Augmented Generation · Fine-tuning · Distributed Data Engineering
+- 🧠 Deep into: Retrieval-Augmented Generation · Distributed Data Engineering
 - 🚀 Turning complex data problems into working systems, one pipeline at a time
 - 💼 Open to collaborate on AI, Data Engineering, or Backend projects!
 
