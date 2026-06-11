@@ -2,7 +2,7 @@
 
 > AI & Data Engineer · Building Reliable Backend System, RAG systems, AI Systems & Data Streaming pipelines · Tanzania 🇹🇿
 
-- 🌱 Founder of **[Elevana](https://elevana.co.tz)** a revenue systems unit that engineers data-driven growth infrastructure, audits leaks, and deploys          custom automation to recover lost business revenue.
+- 🌱 Developing **[Elevana](https://elevana.co.tz)** a revenue systems unit that engineers data-driven growth infrastructure, audits leaks, and deploys          custom automation to recover lost business revenue.
 - 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration,            RAG, human-in-the-loop). Find Arcflow docs at **[Arcflow Docs](https://arcflows.vercel.app/docs)**
 - 🚦 Also building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic congestion prediction platform for Dar es Salaam
 - 👋 AI & Data Engineer · Backend Developer · Systems Thinker
