@@ -3,7 +3,7 @@
 > AI systems · Distributed infrastructure · Data platforms · Tanzania 🇹🇿
 
 - 🏗️ Developing **[Elevana](https://elevana.co.tz)**, a systems engineering company building growth infrastructure, automation, and business intelligence solutions.
-- ⚙️ Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent orchestration, RAG, and human-in-the-loop execution. Docs: **[ArcFlow Docs](https://arcflows.vercel.app/docs)**
+- ⚙️ Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent orchestration, RAG, and human-in-the-loop execution.
 - 🚦 Building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic intelligence platform for Dar es Salaam using streaming data and predictive analytics.
 - 🧩 System Engineer · AI Infrastructure Builder · Distributed Systems Developer
 - 🤖 Building intelligent systems with agentic AI, RAG pipelines, backend platforms, and data-driven applications.
