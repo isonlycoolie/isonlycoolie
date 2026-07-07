@@ -1,12 +1,12 @@
 # <a href="https://denisivalence.tech">System Engineer | Intelligent Systems Builder</a>
 
-> Building intelligent systems across AI agents, distributed backend platforms, RAG systems, and real-time data infrastructure · Tanzania 🇹🇿
+> AI systems · Distributed infrastructure · Data platforms · Tanzania 🇹🇿
 
-- 🏗️ Developing **[Elevana](https://elevana.co.tz)**, a systems engineering company that builds data-driven growth infrastructure, identifies operational bottlenecks, and develops automation solutions to improve business processes.
-- ⚙️ Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent systems supporting orchestration, RAG workflows, and human-in-the-loop execution. Find ArcFlow docs at **[ArcFlow Docs](https://arcflows.vercel.app/docs)**
-- 🚦 Building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic intelligence platform for Dar es Salaam using streaming data pipelines and predictive analytics.
+- 🏗️ Developing **[Elevana](https://elevana.co.tz)**, a systems engineering company building data-driven growth infrastructure, automation, and business intelligence solutions.
+- 🌱 Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent orchestration, RAG workflows, and human-in-the-loop execution. Docs: **[ArcFlow Docs](https://arcflows.vercel.app/docs)**
+- 🚦 Building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic intelligence platform for Dar es Salaam using streaming data and predictive analytics.
 - 🧩 System Engineer · AI Infrastructure Builder · Distributed Systems Developer
-- 🤖 Designing intelligent systems involving agentic AI, retrieval-augmented generation, backend platforms, and data-driven applications.
+- 🤖 Building intelligent systems with agentic AI, RAG pipelines, backend platforms, and data-driven applications.
 - 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, a conversational AI platform connecting Tanzanian citizens with government services through WhatsApp.
 - 🧠 Deep into: Agentic AI · Retrieval-Augmented Generation · Distributed Systems · Data Engineering
 - 🚀 Turning complex operational and data problems into scalable software systems.
