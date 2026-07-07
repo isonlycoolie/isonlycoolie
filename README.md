@@ -1,17 +1,16 @@
-# <a href="https://denisivalence.tech">AI & Data Engineer | Backend Systems Builder</a>
+# <a href="https://denisivalence.tech">System Engineer | Intelligent Systems Builder</a>
 
-> AI & Data Engineer · Building Reliable Backend System, RAG systems, AI Systems & Data Streaming pipelines · Tanzania 🇹🇿
+> Building intelligent systems across AI agents, distributed backend platforms, RAG systems, and real-time data infrastructure · Tanzania 🇹🇿
 
-- 🌱 Developing **[Elevana](https://elevana.co.tz)** a revenue systems unit that engineers data-driven growth infrastructure, audits leaks, and deploys          custom automation to recover lost business revenue.
-- 🌱 Currently building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent pipelines (orchestration,            RAG, human-in-the-loop). Find Arcflow docs at **[Arcflow Docs](https://arcflows.vercel.app/docs)**
-- 🚦 Also building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic congestion prediction platform for Dar es Salaam
-- 👋 AI & Data Engineer · Backend Developer · Systems Thinker
-- 🤖 Building production RAG systems, streaming data pipelines, and LLM-powered civic tools
-- 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, Conversational AI for Tanzanian government services (HESLB, eRITA, University Admissions) via WhatsApp
-- 🧠 Deep into: Retrieval-Augmented Generation · Distributed Data Engineering
-- 🚀 Turning complex data problems into working systems, one pipeline at a time
-- 💼 Open to collaborate on AI, Data Engineering, or Backend projects!
-
+- 🏗️ Developing **[Elevana](https://elevana.co.tz)**, a systems engineering company that builds data-driven growth infrastructure, identifies operational bottlenecks, and develops automation solutions to improve business processes.
+- ⚙️ Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)**, a self-hosted AI workflow runtime for agent systems supporting orchestration, RAG workflows, and human-in-the-loop execution. Find ArcFlow docs at **[ArcFlow Docs](https://arcflows.vercel.app/docs)**
+- 🚦 Building **[DIRA](https://github.com/isonlycoolie/dira)**, a real-time traffic intelligence platform for Dar es Salaam using streaming data pipelines and predictive analytics.
+- 🧩 System Engineer · AI Infrastructure Builder · Distributed Systems Developer
+- 🤖 Designing intelligent systems involving agentic AI, retrieval-augmented generation, backend platforms, and data-driven applications.
+- 🌍 **Working with [Applai](https://github.com/isonlycoolie)**, a conversational AI platform connecting Tanzanian citizens with government services through WhatsApp.
+- 🧠 Deep into: Agentic AI · Retrieval-Augmented Generation · Distributed Systems · Data Engineering
+- 🚀 Turning complex operational and data problems into scalable software systems.
+- 🤝 Open to collaborate on AI systems, backend infrastructure, data engineering, and intelligent automation projects!
 ---
 
 # My Tech Stack
