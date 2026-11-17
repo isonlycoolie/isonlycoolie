@@ -1,17 +1,28 @@
-# <a href="https://denisivalence.tech">System Engineer | Intelligent Systems Builder</a>
+### System Engineer | Intelligent Systems Builder
 
 > Building intelligent systems from pipeline to production · AI, system engineering and data · Dar es Salaam 🇹🇿
 
-**Portfolio:** [denisivalence.tech](https://denisivalence.tech) · [all projects](https://portfolio-eta-topaz-92.vercel.app/projects)
+🔨 Currently building **incloud**, hosting infrastructure for AI agents, and **iamme**, a verified identity layer.
 
-### What I build
-- 📈 **[Elevana](https://elevana.co.tz)** business growth intelligence
-- 💸 **[Swichi](https://swichi.cc)** payments that move like messages, with checkout on WhatsApp
-- 📨 **[Sendly](https://usesendly.cc)** one inbox to reach every customer
-- 🎨 **[Studio by Xend](https://studiobyxend.site)** AI design studio on your desktop
-- 🎬 **[MaxStreams](https://maxstreams.site)** streaming for African films and series
-- ⚙️ **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)** self-hosted runtime for agent workflows, RAG and human-in-the-loop execution
-- 🚦 **[DIRA](https://github.com/isonlycoolie/dira)** real-time traffic intelligence for Dar es Salaam
+**Portfolio:** [denisivalence.tech](https://denisivalence.tech)
+
+### 🚀 Products
+
+- **[Elevana](https://elevana.co.tz)** business growth intelligence
+- **[Swichi](https://swichi.cc)** payments that move like messages, checkout on WhatsApp
+- **[Sendly](https://usesendly.cc)** one inbox to reach every customer
+- **[Studio by Xend](https://studiobyxend.site)** AI design studio on your desktop
+- **[MaxStreams](https://maxstreams.site)** streaming for African films and series
+
+### 🧩 Open source
+
+- **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)** self-hosted runtime for agent workflows, RAG and human-in-the-loop execution
+- **[grabb](https://github.com/isonlycoolie/grabb)** free downloader for social networks: paste a link, get the file
+- **[kiddo](https://github.com/isonlycoolie/kiddo)** apply for jobs from a chat, free phone app
+- **[mahali](https://github.com/isonlycoolie/mahali)** every region, district, ward, street and village in Tanzania, with postcodes
+- **[DIRA](https://github.com/isonlycoolie/dira)** real-time traffic intelligence for Dar es Salaam
+- **[instant](https://github.com/isonlycoolie/instant)** developer-first messaging toolkit for SMS, WhatsApp and Telegram
+- **[beam](https://github.com/isonlycoolie/beam)** local-first Figma design bridge for CLI and MCP coding agents
 
 🧠 Focus: agentic AI, RAG, distributed systems, payments and data engineering. Open to collaborate on AI systems, backend infrastructure and automation.
 
