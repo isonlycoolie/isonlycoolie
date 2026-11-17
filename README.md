@@ -1,16 +1,20 @@
 # <a href="https://denisivalence.tech">System Engineer | Intelligent Systems Builder</a>
 
-> AI systems · Distributed infrastructure · Data platforms · Tanzania 🇹🇿
+> Building intelligent systems from pipeline to production · AI, system engineering and data · Dar es Salaam 🇹🇿
 
-- 🏗️ Developing **[Elevana](https://elevana.co.tz)** Business intelligence solutions that powers modern business
-- ⚙️ Building **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)** a self-hosted AI workflow runtime for agent orchestration, RAG, and human-in-the-loop execution.
-- 🚦 Building **[DIRA](https://github.com/isonlycoolie/dira)** a real-time traffic intelligence platform for Dar es Salaam using streaming data and predictive analytics.
-- 🧩 System Engineer · AI Infrastructure Builder · Distributed Systems Developer
-- 🤖 Building intelligent systems with agentic AI, RAG pipelines, backend platforms, and data-driven applications.
-- 🌍 **Working with [Applai](https://github.com/isonlycoolie)** a conversational AI platform connecting Tanzanian citizens with government services through WhatsApp.
-- 🧠 Deep into: Agentic AI · Retrieval-Augmented Generation · Distributed Systems · Data Engineering
-- 🚀 Turning complex operational and data problems into scalable software systems.
-- 🤝 Open to collaborate on AI systems, backend infrastructure, data engineering, and intelligent automation projects!
+**Portfolio:** [denisivalence.tech](https://denisivalence.tech) · [all projects](https://portfolio-eta-topaz-92.vercel.app/projects)
+
+### What I build
+- 📈 **[Elevana](https://elevana.co.tz)** business growth intelligence
+- 💸 **[Swichi](https://swichi.cc)** payments that move like messages, with checkout on WhatsApp
+- 📨 **[Sendly](https://usesendly.cc)** one inbox to reach every customer
+- 🎨 **[Studio by Xend](https://studiobyxend.site)** AI design studio on your desktop
+- 🎬 **[MaxStreams](https://maxstreams.site)** streaming for African films and series
+- ⚙️ **[ArcFlow](https://github.com/isonlycoolie/ArcFlow)** self-hosted runtime for agent workflows, RAG and human-in-the-loop execution
+- 🚦 **[DIRA](https://github.com/isonlycoolie/dira)** real-time traffic intelligence for Dar es Salaam
+
+🧠 Focus: agentic AI, RAG, distributed systems, payments and data engineering. Open to collaborate on AI systems, backend infrastructure and automation.
+
 ---
 
 # My Tech Stack
